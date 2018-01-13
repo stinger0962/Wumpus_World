@@ -1,7 +1,7 @@
 // ======================================================================
 // FILE:        MyAI.cpp
 //
-// AUTHOR:      Abdullah Younis
+// AUTHOR:     Lei Pan
 //
 // DESCRIPTION: This file contains your agent class, which you will
 //              implement. You are responsible for implementing the
